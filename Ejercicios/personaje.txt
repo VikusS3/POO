@@ -1,0 +1,5 @@
+Nombre: chamaner
+Tipo: fuego
+Vida: 100
+Ataque: 45
+Defensa: 20
