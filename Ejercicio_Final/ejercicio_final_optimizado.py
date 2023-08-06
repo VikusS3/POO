@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "API_KEY"
 system_rol = '''Eres un analizador de sentimientos.
                  Tu objetivo es analizar el sentimiento de un texto que yo te daré.
                  y me daras una respuesta con al menos un caracter y como maximo 4 caracteres.
